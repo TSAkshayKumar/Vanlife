@@ -8,7 +8,7 @@ import Layout from './Component/Layout';
 import Home from './Pages/Home';
 import About from './Pages/About';
 import Van, { loader as vanLoader } from './Pages/Van/Van';
-import Login, { loader as loginLoader, action as loginAction, loader } from './Pages/Login';
+import Login, { loader as loginLoader, action as loginAction} from './Pages/Login';
 import VanDetails, { loader as vanDetailsLoader } from './Pages/Van/VanDetails';
 import HostLayout from './Component/HostLayout';
 import DashBoard, { loader as dashBoardLoader } from './Pages/Host/DashBoard';
